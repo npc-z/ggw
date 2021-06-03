@@ -1,4 +1,4 @@
-module main
+module ggw
 
 go 1.16
 
